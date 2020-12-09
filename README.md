@@ -1,4 +1,4 @@
-# ray-tracing
+# ray-tracer
 This program is modified from the following  code:
 Nate Robins, 1997, 2000
 nate@pobox.com, http://www.pobox.com/~nate
